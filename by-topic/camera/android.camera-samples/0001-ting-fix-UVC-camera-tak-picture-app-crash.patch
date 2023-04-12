@@ -1,0 +1,24 @@
+From ffa55a32d4f4e6c6dd62de241dc2a1b184cc2397 Mon Sep 17 00:00:00 2001
+From: ting <ting@gmail.com>
+Date: Tue, 20 Jun 2023 17:54:05 +0800
+Subject: [PATCH] [ting] fix UVC camera tak picture app crash
+
+---
+ .../example/android/camera2/basic/fragments/CameraFragment.kt   | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/Camera2Basic/app/src/main/java/com/example/android/camera2/basic/fragments/CameraFragment.kt b/Camera2Basic/app/src/main/java/com/example/android/camera2/basic/fragments/CameraFragment.kt
+index 539f274..8a5ac6f 100644
+--- a/Camera2Basic/app/src/main/java/com/example/android/camera2/basic/fragments/CameraFragment.kt
++++ b/Camera2Basic/app/src/main/java/com/example/android/camera2/basic/fragments/CameraFragment.kt
+@@ -345,7 +345,7 @@ class CameraFragment : Fragment() {
+                     timestamp: Long,
+                     frameNumber: Long) {
+                 super.onCaptureStarted(session, request, timestamp, frameNumber)
+-                fragmentCameraBinding.viewFinder.post(animationTask)
++                //fragmentCameraBinding.viewFinder.post(animationTask)
+             }
+
+             override fun onCaptureCompleted(
+--
+2.41.0.windows.1

@@ -1,0 +1,204 @@
+[submodule "specific_topic/android-drawing-painting/KishanViramgama.Drawing"]
+	path = by-topic/android-drawing-painting/KishanViramgama.Drawing
+	url = git@github.com:KishanViramgama/Drawing.git
+[submodule "specific_topic/android-drawing-painting/onecode369.CanvasPainting"]
+	path = by-topic/android-drawing-painting/onecode369.CanvasPainting
+	url = git@github.com:onecode369/CanvasPainting.git
+[submodule "specific_topic/android-drawing-painting/Raed-Mughaus.DrawingView"]
+	path = by-topic/android-drawing-painting/Raed-Mughaus.DrawingView
+	url = git@github.com:Raed-Mughaus/DrawingView.git
+[submodule "specific_topic/android-tv/songwenju.TIFSample"]
+	path = by-topic/android-tv/songwenju.TIFSample
+	url = git@github.com:songwenju/TIFSample.git
+[submodule "specific_topic/android-tv/googlesamples.androidtv-sample-inputs"]
+	path = by-topic/android-tv/googlesamples.androidtv-sample-inputs
+	url = git@github.com:googlesamples/androidtv-sample-inputs.git
+
+[submodule "specific_topic/camera/opencamera.org.uk-OpenCamera/opencamera-code"]
+	path = by-topic/camera/opencamera.org.uk-OpenCamera/opencamera-code
+	url = https://git.code.sf.net/p/opencamera/code
+[submodule "specific_topic/camera/aosp.packages-apps-Camera2/Camera2"]
+	path = by-topic/camera/aosp.packages-apps-Camera2/Camera2
+	url = https://android.googlesource.com/platform/packages/apps/Camera2
+[submodule "specific_topic/camera/gengqifu.361Camera"]
+	path = by-topic/camera/gengqifu.361Camera
+	url = git@github.com:gengqifu/361Camera.git
+[submodule "specific_topic/rxjava/ReactiveX.RxJava"]
+	path = by-topic/rxjava/ReactiveX.RxJava
+	url = git@github.com:ReactiveX/RxJava.git
+[submodule "specific_topic/rxjava/rxjava/miguelbcr.RxPaparazzo"]
+	path = by-topic/rxjava/rxjava/miguelbcr.RxPaparazzo
+	url = git@github.com:miguelbcr/RxPaparazzo.git
+[submodule "specific_topic/rxjava/rxjava/rengwuxian.RxJavaSamples"]
+	path = by-topic/rxjava/rxjava/rengwuxian.RxJavaSamples
+	url = git@github.com:rengwuxian/RxJavaSamples.git
+[submodule "specific_topic/rxjava/rxjava2/nanchen2251.RxJava2Examples"]
+	path = by-topic/rxjava/rxjava2/nanchen2251.RxJava2Examples
+	url = git@github.com:nanchen2251/RxJava2Examples.git
+[submodule "specific_topic/rxjava/rxjava3/xuexiangjys.RxJava3Sample"]
+	path = by-topic/rxjava/rxjava3/xuexiangjys.RxJava3Sample
+	url = git@github.com:xuexiangjys/RxJava3Sample.git
+
+
+
+
+
+[submodule "googlecodelabs/android-workmanager"]
+	path = by-github/official-github/googlecodelabs/android-workmanager
+	url = git@github.com:googlecodelabs/android-workmanager.git
+[submodule "android/architecture-components-samples"]
+	path = by-github/official-github/android/architecture-components-samples
+	url = git@github.com:android/architecture-components-samples.git
+[submodule "android/compose-samples"]
+	path = by-github/official-github/android/compose-samples
+	url = git@github.com:android/compose-samples.git
+[submodule "android/sunflower"]
+	path = by-github/official-github/android/sunflower
+	url = git@github.com:android/sunflower.git
+[submodule "android/nowinandroid"]
+	path = by-github/official-github/android/nowinandroid
+	url = git@github.com:android/nowinandroid.git
+[submodule "google-developer-training/android-fundamentals-apps-v2"]
+	path = by-github/official-github/google-developer-training/android-fundamentals-apps-v2
+	url = git@github.com:google-developer-training/android-fundamentals-apps-v2.git
+[submodule "google-developer-training/android-kotlin-fundamentals-apps"]
+	path = by-github/official-github/google-developer-training/android-kotlin-fundamentals-apps
+	url = git@github.com:google-developer-training/android-kotlin-fundamentals-apps.git
+[submodule "googlecodelabs/android-compose-codelabs"]
+	path = by-github/official-github/googlecodelabs/android-compose-codelabs
+	url = git@github.com:googlecodelabs/android-compose-codelabs.git
+[submodule "googlecodelabs/android-paging"]
+	path = by-github/official-github/googlecodelabs/android-paging
+	url = git@github.com:googlecodelabs/android-paging.git
+[submodule "android/android-test"]
+	path = by-github/official-github/android/android-test
+	url = https://github.com/android/android-test
+[submodule "android/testing-samples"]
+	path = by-github/official-github/android/testing-samples
+	url = https://github.com/android/testing-samples
+[submodule "android/architecture-samples"]
+	path = by-github/official-github/android/architecture-samples
+	url = https://github.com/android/architecture-samples
+[submodule "android/connectivity-samples"]
+	path = by-github/official-github/android/connectivity-samples
+	url = https://github.com/android/connectivity-samples
+[submodule "android/databinding-samples"]
+	path = by-github/official-github/android/databinding-samples
+	url = https://github.com/android/databinding-samples
+[submodule "android/enterprise-samples"]
+	path = by-github/official-github/android/enterprise-samples
+	url = https://github.com/android/enterprise-samples
+[submodule "android/gradle-recipes"]
+	path = by-github/official-github/android/gradle-recipes
+	url = https://github.com/android/gradle-recipes
+[submodule "android/health-samples"]
+	path = by-github/official-github/android/health-samples
+	url = https://github.com/android/health-samples
+[submodule "android/identity-samples"]
+	path = by-github/official-github/android/identity-samples
+	url = https://github.com/android/identity-samples
+[submodule "android/input-samples"]
+	path = by-github/official-github/android/input-samples
+	url = https://github.com/android/input-samples
+[submodule "android/location-samples"]
+	path = by-github/official-github/android/location-samples
+	url = https://github.com/android/location-samples
+[submodule "android/media-samples"]
+	path = by-github/official-github/android/media-samples
+	url = https://github.com/android/media-samples
+[submodule "android/ndk-samples"]
+	path = by-github/official-github/android/ndk-samples
+	url = https://github.com/android/ndk-samples
+[submodule "android/performance-samples"]
+	path = by-github/official-github/android/performance-samples
+	url = https://github.com/android/performance-samples
+[submodule "android/permissions-samples"]
+	path = by-github/official-github/android/permissions-samples
+	url = https://github.com/android/permissions-samples
+[submodule "android/security-samples"]
+	path = by-github/official-github/android/security-samples
+	url = https://github.com/android/security-samples
+[submodule "android/storage-samples"]
+	path = by-github/official-github/android/storage-samples
+	url = https://github.com/android/storage-samples
+[submodule "android/user-interface-samples"]
+	path = by-github/official-github/android/user-interface-samples
+	url = https://github.com/android/user-interface-samples
+[submodule "android/views-widgets-samples"]
+	path = by-github/official-github/android/views-widgets-samples
+	url = https://github.com/android/views-widgets-samples
+[submodule "google/iosched"]
+	path = by-github/official-github/google/iosched
+	url = git@github.com:google/iosched.git
+[submodule "googlecodelabs/android-hilt"]
+	path = by-github/official-github/googlecodelabs/android-hilt
+	url = https://github.com/googlecodelabs/android-hilt
+[submodule "googlecodelabs/android-navigation"]
+	path = by-github/official-github/googlecodelabs/android-navigation
+	url = https://github.com/googlecodelabs/android-navigation
+[submodule "googlecodelabs/android-room-with-a-view"]
+	path = by-github/official-github/googlecodelabs/android-room-with-a-view
+	url = https://github.com/googlecodelabs/android-room-with-a-view
+[submodule "google-developer-training/android-advanced"]
+	path = by-github/official-github/google-developer-training/android-advanced
+	url = https://github.com/google-developer-training/android-advanced
+[submodule "google-developer-training/android-basics-kotlin-mars-photos-app"]
+	path = by-github/official-github/google-developer-training/android-basics-kotlin-mars-photos-app
+	url = https://github.com/google-developer-training/android-basics-kotlin-mars-photos-app
+[submodule "google-developer-training/basic-android-kotlin-compose-training-race-tracker"]
+	path = by-github/official-github/google-developer-training/basic-android-kotlin-compose-training-race-tracker
+	url = https://github.com/google-developer-training/basic-android-kotlin-compose-training-race-tracker
+[submodule "tensorflow/examples"]
+	path = by-github/official-github/tensorflow/examples
+	url = https://github.com/tensorflow/examples
+[submodule "by-github/personal-github/ZhangJianIsAStark/Demos/Demos"]
+	path = by-github/personal-github/ZhangJianIsAStark/Demos/Demos
+	url = https://github.com/ZhangJianIsAStark/Demos
+[submodule "by-github/personal-github/vitaviva/DaggerHiltSample/DaggerHiltSample"]
+	path = by-github/personal-github/vitaviva/DaggerHiltSample/DaggerHiltSample
+	url = https://github.com/vitaviva/DaggerHiltSample
+[submodule "by-github/personal-github/tiann/android-native-debug"]
+	path = by-github/personal-github/tiann/android-native-debug
+	url = https://github.com/tiann/android-native-debug
+[submodule "by-github/personal-github/jeetdholakia/ServicesAndBackgroundTasks"]
+	path = by-github/personal-github/jeetdholakia/ServicesAndBackgroundTasks
+	url = https://github.com/jeetdholakia/ServicesAndBackgroundTasks
+[submodule "by-github/personal-github/mCyp/Hoo"]
+	path = by-github/personal-github/mCyp/Hoo
+	url = https://github.com/mCyp/Hoo
+[submodule "by-github/personal-github/zhujiang521/PlayWeather"]
+	path = by-github/personal-github/zhujiang521/PlayWeather
+	url = https://github.com/zhujiang521/PlayWeather
+[submodule "by-github/official-github/android/kotlin-multiplatform-samples"]
+	path = by-github/official-github/android/kotlin-multiplatform-samples
+	url = git@github.com:android/kotlin-multiplatform-samples.git
+[submodule "by-github/official-github/firebase/quickstart-android"]
+	path = by-github/official-github/firebase/quickstart-android
+	url = git@github.com:firebase/quickstart-android.git
+[submodule "by-topic/camera/android.camera-samples/camera-samples"]
+	path = by-topic/camera/android.camera-samples/camera-samples
+	url = git@github.com:android/camera-samples.git
+[submodule "by-github/official-github/android/platform-samples"]
+	path = by-github/official-github/android/platform-samples
+	url = https://github.com/android/platform-samples.git
+[submodule "by-topic/rxjava/ReactiveX.RxAndroid"]
+	path = by-topic/rxjava/ReactiveX.RxAndroid
+	url = https://github.com/ReactiveX/RxAndroid
+[submodule "by-topic/WebRTC/julianshen_apprtc-android-demo/apprtc-android-demo"]
+	path = by-topic/WebRTC/julianshen_apprtc-android-demo/apprtc-android-demo
+	url = https://github.com/julianshen/apprtc-android-demo.git
+[submodule "by-topic/WebRTC/matthewYang92_WebRTC/WebRtcAndroidClient"]
+	path = by-topic/WebRTC/matthewYang92_WebRTC/WebRtcAndroidClient
+	url = https://github.com/matthewYang92/WebRtcAndroidClient.git
+[submodule "by-topic/WebRTC/matthewYang92_WebRTC/WebRtcServer"]
+	path = by-topic/WebRTC/matthewYang92_WebRTC/WebRtcServer
+	url = https://github.com/matthewYang92/WebRtcServer.git
+[submodule "by-topic/WebRTC/pchab_WebRTC/AndroidRTC"]
+	path = by-topic/WebRTC/pchab_WebRTC/AndroidRTC
+	url = https://github.com/pchab/AndroidRTC.git
+[submodule "by-topic/WebRTC/pchab_WebRTC/ProjectRTC"]
+	path = by-topic/WebRTC/pchab_WebRTC/ProjectRTC
+	url = https://github.com/pchab/ProjectRTC.git
+[submodule "by-topic/android-as-ipcamera/Teaonly_android-eye"]
+	path = by-topic/android-as-ipcamera/Teaonly_android-eye
+	url = https://github.com/Teaonly/android-eye.git
